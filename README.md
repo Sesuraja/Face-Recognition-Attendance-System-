@@ -10,12 +10,7 @@ Citation : [![DOI](https://zenodo.org/badge/482795365.svg)](https://zenodo.org/b
 In the era of modern technologies emerging at rapid pace there is no reason why a crucial event in educational sector such as attendance should be done in the old boring traditional way.
 Attendance monitoring system will save a lot of time and energy for the both parties students as well as the class teachers. Attendance will be monitored by the face recognition algorithm by recognizing only the face of the students from the rest of the objects and then marking them as present. The system will be pre feed with the images of all the students and with the help of this pre feed data the algorithm will detect them who are present and match the features with the already saved images of them present in the database
 
-## Acknowledgements
 
-
-I express my deep sense of gratitude towards Assistant Prof. [Dr. Somshekhar MT](https://bangaloreuniversity.ac.in/wp-content/uploads/2018/02/Dr.-M.T.-Somashekara-CV-27012018.pdf) for his valuable guidance and his interest; I am able to complete this project in scheduled time.
- I am indebted to our honorable principal Prof. [Dr. Hanumanthappa](https://eng.bangaloreuniversity.ac.in/wp-content/uploads/2016/09/MCA-HANUMANTHAPPA-M-CV-16092016.pdf) who has been a constant source of motivation and co-operating in bringing this project in very short time
-Lastly, I am thankful to all other staff members of MCA Department from [Bangalore University](https://eng.bangaloreuniversity.ac.in/) who have directly and indirectly helped me while completing this project report.
 
 ## Introduction
 
