@@ -1,4 +1,3 @@
-Citation : [![DOI](https://zenodo.org/badge/482795365.svg)](https://zenodo.org/badge/latestdoi/482795365)
 
 # Face Recognition Attendance System
 
@@ -84,9 +83,7 @@ Relational Database Management System (RDBMS)
 
 ![Student](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Student/st.PNG)
 
-## Taking Photo
 
-![Taking Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Taking%20photo/take.PNG)
 
 ## Training Data
 
@@ -103,9 +100,7 @@ Relational Database Management System (RDBMS)
 ## ChatBot
 
 ![ChatBot](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/ChatBot/cht.PNG)
-## Photos Captured for Training
 
-![Photo](https://github.com/PalashHawee/Face-Recognition-System/blob/main/Screen%20Shots%20Output/Photos/pp.PNG)
 
 
 ## Project Modules
@@ -136,7 +131,7 @@ User can exit the system whenever it is required without losing any data.
 
 
 
-## Authors
+
 
 - [@PalashHawee](https://github.com/PalashHawee)
 
