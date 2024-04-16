@@ -128,14 +128,6 @@ User can exit the system whenever it is required without losing any data.
 
 
 
-
-
-
-
-
-- [@PalashHawee](https://github.com/PalashHawee)
-
-
 ## 🛠 Skills
 Python, Data Science, Machine Learning
 
